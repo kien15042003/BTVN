@@ -1,0 +1,3 @@
+﻿  BaiTapVeNha.cpp
+D:\code1\BaiTap\BaiTapVeNha\BaiTapVeNha.cpp(56): warning C4715: 'findByName': not all control paths return a value
+  BaiTapVeNha.vcxproj -> D:\code1\BaiTap\Debug\BaiTapVeNha.exe
